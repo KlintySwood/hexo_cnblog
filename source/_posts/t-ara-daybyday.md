@@ -6,7 +6,7 @@ tags:
     - areum
     - boram
     - dani
-    - eunjeung
+    - eunjung
     - hwasnake
     - hyomin
     - jiyeon
