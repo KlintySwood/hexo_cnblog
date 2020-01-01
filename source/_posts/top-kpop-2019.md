@@ -33,7 +33,7 @@ thumbnail: /images/cute_eunha.jpg
 
 Bonjour à tous et joyeuses fêtes de fin d'année ! Vous l'attendiez tous j'en suis certain, le moment tant attendu où je révèle mes titres préférés de KPop de l'année, j'en ai sélectionné vingt, et non, cette fois je ne fais pas ça en audio, je n'en ai pas pris le temps... Honte sur moi.
 
-Je me motive tout de même pour sortir cet article juste avant d'aller réveilloner et vous permettre si vous le souhaitez de vous ambiancer ce soir avec une playlist de qualité ( Spotify - Youtube ). Car cette année a été riche en bons titres, oh oui, et vu que j'en vois déjà sourir je vous propose d'aller voir les deux listes de fin d'année de Kpopalypse, une concerne ses titres préférés et l'autre ceux qui sont les pires selon lui. Si vous me dites que vous n'entendez pas de différence vous êtes d'une mauvaise foi singulière.
+Je me motive tout de même pour sortir cet article juste avant d'aller réveilloner et vous permettre si vous le souhaitez de vous ambiancer ce soir avec une playlist de qualité ( [Spotify](https://open.spotify.com/playlist/4GiuDdDLRtMMtzosG1byMB?si=ev8yUv0lT3KctJ7kAgkWZg) - [Youtube](https://www.youtube.com/playlist?list=PLVH5qEa6Uu59CCKmzTVPSu8VurqYYoME-) ). Car cette année a été riche en bons titres, oh oui, et vu que j'en vois déjà sourir je vous propose d'aller voir les deux listes de fin d'année de Kpopalypse, une concerne ses titres préférés et l'autre ceux qui sont les pires selon lui. Si vous me dites que vous n'entendez pas de différence vous êtes d'une mauvaise foi singulière.
 
 Sur ce, allons-y Alonso !
 
@@ -63,7 +63,7 @@ Il y a pas mal de chansons de la hype cette année dans mon top, et celle-ci en 
 
 ## 16 : GFriend - Fever
 
-GFriend nous propose un titre, certes efficace, mais qui suit à la lettre la recette GFriend. J'attends avec impatience la prochaine fois qu'elles innoveront comme avec Fingertip. Cette seixième place est peut-être en grande partie dûe à la mignonitude d'Eunha, qui sait.
+GFriend nous propose un titre, certes efficace, mais qui suit à la lettre la recette GFriend. J'attends avec impatience la prochaine fois qu'elles innoveront comme avec [Fingertip](https://www.youtube.com/watch?v=i1n_1jrUEjU). Cette seixième place est peut-être en grande partie dûe à la mignonitude d'Eunha, qui sait.
 
 [![YOUTUBE MV - GFriend - Fever](https://img.youtube.com/vi/Zll7O1v63aY/0.jpg)](https://www.youtube.com/watch?v=Zll7O1v63aY)
 
@@ -75,7 +75,7 @@ Voilà un groupe qui ne m'avait jamais vraiment tapé dans l'oreille, je les con
 
 ## 14 : Dalsoobin - Katchup
 
-Vous connaissez le groupe Dalshabet ? Sans doute que non, mais elle furent parmi les dignes représentantes de la branche des groupes au concept sexy. Et elles ont eu quelques titres ma foi forts plaisant. Faisant partie de la boite de production Happyface Entertainment (maintenant appelée Dreamcatcher Company) elles sont également les *sunbae* (séniors) de Dreamcatcher.  
+Vous connaissez le groupe [Dalshabet](https://www.youtube.com/watch?v=6H1QOFBNRWs) ? Sans doute que non, mais elle furent parmi les dignes représentantes de la branche des groupes au concept sexy. Et elles ont eu quelques titres ma foi forts plaisant. Faisant partie de la boite de production Happyface Entertainment (maintenant appelée Dreamcatcher Company) elles sont également les *sunbae* (séniors) de Dreamcatcher.  
 Mais revenons à Subin, ou Dalsoobin désormais, elle a visiblement du talent et un style bien à elle, j'espère qu'elle pourra continuer encore un moment sa carrière.
 
 [![YOUTUBE MV - Dalsoobin - Katchup](https://img.youtube.com/vi/8kBUGGqTTzM/0.jpg)](https://www.youtube.com/watch?v=8kBUGGqTTzM)
@@ -94,13 +94,13 @@ La leader et main vocal de l'ancien *nation girl group* confirme son statut de c
 
 ## 11 : Hwasa - Twit
 
-Hwasa est devenue cette année une icône autant féminine que féministe et elle est aujourd'hui la membre la plus populaire de Mamamoo. Son relatif franc-parler dans l'univers ultra contrôlé des idols et sa désinvolture amènent un vent de fraîcheur dans l'industrie, et chose incroyable, ça plait aux gens, surtout aux femmes apparemment. J'ai notamment été frappé par les mots de Sera, ancienne membre du groupe Nine Muses, aujourd'hui youtubeuse et fan de Hwasa, qui étaient : "Hwasa me rend fière d'être une femme, surtout sur scène".
+Hwasa est devenue cette année une icône autant féminine que féministe et elle est aujourd'hui la membre la plus populaire de Mamamoo. Son relatif franc-parler dans l'univers ultra contrôlé des idols et sa désinvolture amènent un vent de fraîcheur dans l'industrie, et chose incroyable, ça plait aux gens, surtout aux femmes apparemment. J'ai notamment été frappé par les mots de [Sera](https://www.youtube.com/watch?v=ySJhwFM6CWo), ancienne membre du groupe Nine Muses, aujourd'hui youtubeuse et fan de Hwasa, qui étaient : "Hwasa me rend fière d'être une femme, surtout sur scène".
 
 [![YOUTUBE MV - Hwasa - Twit](https://img.youtube.com/vi/ScSn235gQx0/0.jpg)](https://www.youtube.com/watch?v=ScSn235gQx0)
 
 ## 10 : AOA - Come See Me
 
-AOA is back, et même avec deux membres en moins elles sont revenues pour envoyer du lourd. Elles sont toujours dans un registre sexy, mais avec une certaine subtilité désormais. Leur passage par l'émission Queendom (notamment leur reprise de Egotistic de Mamamoo)les a remis sur le devant de la scène et elles réussissent avec ce titre à garder leur momentum de popularité. À noter que Jimin a un soundcloud où elle commence à poster des prods perso, et c'est plutôt prometteur.
+AOA is back, et même avec deux membres en moins elles sont revenues pour envoyer du lourd. Elles sont toujours dans un registre sexy, mais avec une certaine subtilité désormais. Leur passage par l'émission Queendom (notamment leur reprise de [Egotistic](https://www.youtube.com/watch?v=JXC7rtAVOzM) de [Mamamoo](https://www.youtube.com/watch?v=pHtxTSiPh5I))les a remis sur le devant de la scène et elles réussissent avec ce titre à garder leur momentum de popularité. À noter que Jimin a un [soundcloud](https://soundcloud.com/treeforreal/vvwd-prod-bmtj) où elle commence à poster des prods perso, et c'est plutôt prometteur.
 
 [![YOUTUBE MV - AOA - Come See Me](https://img.youtube.com/vi/ixxWWKX4S_8/0.jpg)](https://www.youtube.com/watch?v=ixxWWKX4S_8)
 
@@ -126,7 +126,7 @@ Dans les rappeurs coréens il y a des bons rappeurs et des mauvais rappeurs. Il 
 
 ## 6 : CLC - Devil
 
-Un de mes groupes de l'amour, depuis leur titre Hobgoblin je suis envoûté. Cette année CLC a sorti deux autres titres qui auraient pu se retrouver dans ce top, No et Me. J'avais peur que le groupe ne soit éclipsé par (G)I-dle, de la même boite de prod et qui a fait un début fracassant, mais ce ne fût pas le cas, j'espère que ça continuera en 2020.
+Un de mes groupes de l'amour, depuis leur titre Hobgoblin je suis envoûté. Cette année CLC a sorti deux autres titres qui auraient pu se retrouver dans ce top, [No](https://www.youtube.com/watch?v=ZvhpjERxJlQ) et [Me](https://www.youtube.com/watch?v=QOdbtSqv12g). J'avais peur que le groupe ne soit éclipsé par (G)I-dle, de la même boite de prod et qui a fait un début fracassant, mais ce ne fût pas le cas, j'espère que ça continuera en 2020.
 
 [![YOUTUBE MV - CLC - Devil](https://img.youtube.com/vi/MY4qnUGwWIU/0.jpg)](https://www.youtube.com/watch?v=MY4qnUGwWIU)
 
@@ -138,7 +138,7 @@ Le groupe qui a la vraie street cred en ce moment, si on mettait de côtés les 
 
 ## 4 : (G)I-dle - Lion
 
-Les monster-rookies de cette année, encore plus depuis leur passage dans l'émission Queendom où la leader Soyeon a une nouvelle fois pu prouver son talent en signant notamment ces deux performances incroyables,ce titre, Lion, et la revisite de leur titre Put It Straight en version cauchemardesque. En termes de concept durant cette émission, seules les filles de Oh My Girl ont proposé des choses aussi ouf, allez donc voir leurs vidéos de Destiny et Twilight.  
+Les monster-rookies de cette année, encore plus depuis leur passage dans l'émission Queendom où la leader Soyeon a une nouvelle fois pu prouver son talent en signant notamment ces deux performances incroyables,ce titre, Lion, et la revisite de leur titre [Put It Straight](https://www.youtube.com/watch?v=TorT6Rgl-Kc) en version cauchemardesque. En termes de concept durant cette émission, seules les filles de Oh My Girl ont proposé des choses aussi ouf, allez donc voir leurs vidéos de [Destiny](https://www.youtube.com/watch?v=e5BseJ4fxzA) et [Twilight](https://www.youtube.com/watch?v=n31-1D5tQeI).  
 J'ai hâte de voir ce que Soyeon aura à nous proposer en 2020 avec ses membres.  
 Je vous mets ci-dessous la version de l'émission Queendom, avec la mise en scène et tout.
 
@@ -146,7 +146,7 @@ Je vous mets ci-dessous la version de l'émission Queendom, avec la mise en scè
 
 ## 3 : APink - %% (Eung Eung)
 
-L'année dernière, APink nous avait ravis avec leur titre I'm So Sick en s'éloignant de leur concept premier de jeunes filles innocentes et mignonnes, et cette année elles persistent et signent avec %% (Eung Eung), un titre aux doux accents un peu rétros et qui tranche cette fois complètement avec le style habituel du groupe. En théorie, Apink doit continuer encore deux ans avant de se séparer, espérons que ce soit le cas et qu'elles continuent à nous proposer des chansons aussi bonnes que celle-ci.
+L'année dernière, APink nous avait ravis avec leur titre [I'm So Sick](https://www.youtube.com/watch?v=F4oHuML9U2A) en s'éloignant de leur concept premier de jeunes filles innocentes et mignonnes, et cette année elles persistent et signent avec %% (Eung Eung), un titre aux doux accents un peu rétros et qui tranche cette fois complètement avec le style habituel du groupe. En théorie, Apink doit continuer encore deux ans avant de se séparer, espérons que ce soit le cas et qu'elles continuent à nous proposer des chansons aussi bonnes que celle-ci.
 
 [![YOUTUBE MV - APink - %%](https://img.youtube.com/vi/499YUeNoYVE/0.jpg)](https://www.youtube.com/watch?v=499YUeNoYVE)
 
@@ -158,7 +158,7 @@ Il y a plusieurs raisons pour laquelle j'ai choisi cette chanson, la première e
 
 ## 1 : Dreamcatcher - Déjà Vu
 
-Bon, pour le numéro un je pouvais pas y couper, je fanboyise à mort sur ce groupe, je suis même allé les voir en concert, bravant la grisaille parisienne et les grèves. Mais ça valait complètement le coup, ces filles sont géniales. Et il y a pas que moi qui le dit, il y a Sera aussi, j'en ai parlé un peu plus haut, elle est youtubeuse et ses followers lui ont conseillé de regarder ce que faisait Dreamcatcher, elle est logiquement devenue fan instantanément.
+Bon, pour le numéro un je pouvais pas y couper, je fanboyise à mort sur ce groupe, je suis même allé les voir en concert, bravant la grisaille parisienne et les grèves. Mais ça valait complètement le coup, ces filles sont géniales. Et il y a pas que moi qui le dit, il y a [Sera](https://www.youtube.com/watch?v=P3lxO6LqzSc) aussi, j'en ai parlé un peu plus haut, elle est youtubeuse et ses followers lui ont conseillé de regarder ce que faisait Dreamcatcher, elle est logiquement devenue fan instantanément.
 Tout ce que je peux espérer c'est qu'en 2020 elles se dirigent vers des concepts encore un peu plus métal, ce serait ouf ! #stan_dreamcatcher
 
 [![YOUTUBE MV - Dreamcatcher - Déjà Vu](https://img.youtube.com/vi/W761DtH1oRg/0.jpg)](https://www.youtube.com/watch?v=W761DtH1oRg)
