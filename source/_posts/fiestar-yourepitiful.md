@@ -11,7 +11,7 @@ categories:
     - KPop
 thumbnail: /images/fiestar_thumbnail.jpg
 ---
-![Fiestar](/images/fiestar_thumbnail.jpg)
+![Fiestar](/images/fiestar.jpg)
 
 C'est l'effervescence en ce moment du côté des sorties dans l'industrie de la KPop, du coup il est temps de refaire un petit article. Je ne vais pas vous faire l'inventaire par contre de tout ce qui est intéressant de suivre ces jours-ci, vous pouvez aller voir le site [asiavibes.info](https://asiavibes.info) tenu par Caféine de [Geekzone](https://geekzone.fr).
 
