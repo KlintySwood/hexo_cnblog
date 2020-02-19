@@ -10,7 +10,7 @@ tags:
     - yeri
 
 categories:
-    - KPpop
+    - KPop
 thumbnail: /images/red_velvet.jpg
 ---
 
