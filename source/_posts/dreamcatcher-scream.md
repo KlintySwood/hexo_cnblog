@@ -38,3 +38,13 @@ STAN TALENT, STAN DREAMCATCHER, comme ces belles personnes :
 Lien vers l'album sur Spotify : [Dreamcatcher - Dystopia](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB?si=R2Js3wHZSrO200HhSzYJkw)
 
 Foncez écouter Black Or White, avec cette ligne de basse ❤ et le rap de Dami ❤
+
+EDIT : je vais rajouter dans ce posts les trucs cools de ce comeback 😀
+
+[![Dreamcatcher - Scream MV (Dance Version)](https://img.youtube.com/vi/feF5yC1TYII/0.jpg)](https://www.youtube.com/watch?v=feF5yC1TYII)
+
+[Dreamcatcher - Jazz Bar (Vlive)](https://www.vlive.tv/video/176273)
+
+[Dreamcatcher - Déjà Vu (Vlive)](https://www.vlive.tv/video/176271)
+
+[Dreamcatcher - Scream (Vlive)](https://www.vlive.tv/video/176274)
