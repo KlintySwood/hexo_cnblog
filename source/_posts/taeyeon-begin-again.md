@@ -13,7 +13,10 @@ thumbnail: /images/taeyeon_begin_again.jpg
 
 Anyeong les Internets ! Vous connaissez le groupe **Girl's Generation** ? Sans doute que oui, mais pour vous raffraichir la mémoire je vous mets des liens vers quelques titres emblématiques 😉
 
-[Gee](https://www.youtube.com/watch?v=U7mPqycQ0tQ)
+* [Gee](https://www.youtube.com/watch?v=U7mPqycQ0tQ)
+* [Oh!](https://www.youtube.com/watch?v=TGbwL8kSpEk)
+* [Genie](https://www.youtube.com/watch?v=6SwiSpudKWI)
+* [I Got A Boy](https://www.youtube.com/watch?v=wq7ftOZBy0E)
 
 Désormais les membres du groupe poursuivent chacune de leur côté leurs carrières solo, notamment *Taeyeon*, qui est devenue une chanteuse très populaire avec des titres comme *I* ou *11:11*. Elle est considérée depuis longtemps comme une excellente interprète, et certes elle a maintes fois prouvé son talent, mais j'ai toujours trouvé que **SM Entertainment**, sa boite de prod, ne lui laisse pas de latitude pour vraiment s'exprimer. Et j'ai découvert cette émission de télé, **Begin Again**, ou pour la première fois, je pense, j'ai vu *Taeyeon* chanter ce qu'elle veut, comme elle le veut. Et ça fait plaisir. Espérons que son management continue à lui laisser de plus en plus le champ libre sur ses choix.
 
