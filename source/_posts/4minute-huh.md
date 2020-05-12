@@ -21,4 +21,4 @@ J'ai été happé par les charmes de *Ga Yoon*, *Hyun A*, *Ji Hyun*, *Ji Yoon* e
 
 Si vous êtes attentifs au clip de *Huh* vous aurez peut-être reconnu une des jeunes femmes, *Hyun A*, qui a tourné dans la vidéo la plus populaire de l'année 2012 (sur Youtube tout du moins), *Gangnam Style* de **PSY**. *Hyun A* est la seule du groupe à avoir une carrière de chanteuse en solo correcte, et c'est d'autant plus malheureux car comme quasi tous les groupes de ce qu'on appelle la seconde génération d'idols, **4Minute** s'est séparé. La tristitude...
 
-[![YOUTUBE MV - 4Minute - Huh](https://img.youtube.com/vi/kRbIZtUS2Ag/0.jpg)](https://www.youtube.com/watch?v=kRbIZtUS2Ag)
+{% youtube kRbIZtUS2Ag %}

@@ -46,4 +46,4 @@ Une autre membre notable d'**AOA** est *Seol Hyun*, qui est la reine des CF (Com
 
 Passons enfin à la présentation du titre, c'est je crois le titre phare d'**AOA**, *Choa* est encore là, *Jimin* balance un nombre indécent de *Hey !* tout au long de la chanson et c'est très sexy. C'est clairement un de ces titres de K-Pop qui n'est véritablement apprécié qu'avec la vidéo du clip ou d'une représentation sur scène.
 
-[![YOUTUBE MV - AOA - Like A Cat](https://img.youtube.com/vi/qEYOyZVWlzs/0.jpg)](https://www.youtube.com/watch?v=qEYOyZVWlzs)
+{% youtube qEYOyZVWlzs %}

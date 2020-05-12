@@ -17,4 +17,4 @@ Anyeong Internet, aujourd'hui intéressons nous à deux jeunes gens très énerv
 
 Après plusieurs titres plutôt accoustiques, *Chan Hyeok* s'est essayé à l'EDM, avec succès je trouve. Le morceau s'appelle *Dinosaur*, et selon les théories de fan ce titre pourrait être inspiré d'un fait marquant et douloureux de la jeunesse du duo ou des agents de recouvrement peu scrupuleux auraient fait irruption avec force et fracas dans la maison familiale pour demander le remboursement d'un crédit. Je vous laisse aller voir les paroles et vous faire votre avis.
 
-[![YOUTUBE MV - AKMU - Dinosaur](https://img.youtube.com/vi/8Oz7DG76ibY/0.jpg)](https://www.youtube.com/watch?v=8Oz7DG76ibY)
+{% youtube 8Oz7DG76ibY %}

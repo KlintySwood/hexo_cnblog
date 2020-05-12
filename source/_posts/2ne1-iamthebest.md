@@ -26,4 +26,4 @@ Et en 2017, *CL*, *Dara* et *Bom* sortent le titre *Goodbye* en guise d'adieu à
 
 Le titre que je vous propose cette semaine est donc *I am the best*, titre le plus emblématique de **2NE1**, même si je vous conseille d'aller aussi jeter une oreille du côté de *Lonely*, *Ugly* ou *Come Back Home*.
 
-[![YOUTUBE MV - 2NE1 - I Am The Best](https://img.youtube.com/vi/j7_lSP8Vc3o/0.jpg)](https://www.youtube.com/watch?v=j7_lSP8Vc3o)
+{% youtube j7_lSP8Vc3o %}

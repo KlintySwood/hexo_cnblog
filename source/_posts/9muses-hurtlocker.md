@@ -27,4 +27,4 @@ Mais bon, la loi des *charts* est rude, et il peut manquer cette petite étincel
 
 Aujourd'hui ne reste plus que quatres muses, dont une seule du groupe d'origine, *Hyemi*, accompagnée donc de *Kyungri*, *Keumjo* et *Sojin*. Mais intéressons-nous à un morceau sorti quand elles étaient encore six, *Hurt Locker*, un titre que j'apprécie particulièrement, même si *Ryu Sera*, ma préférée, était déjà partie tenter une carrière indé en solo.
 
-[![YOUTUBE MV - 9Muses - Hurt Locker](https://img.youtube.com/vi/N0PIn3sSZEI/0.jpg)](https://www.youtube.com/watch?v=N0PIn3sSZEI)
+{% youtube N0PIn3sSZEI %}
