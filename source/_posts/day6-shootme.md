@@ -21,4 +21,4 @@ Anyeong Internet ! Aujourd'hui c'est presque mardi, c'est donc le temps de la K-
 
 Le titre de cette semaine je l'ai découvert grâce à la chaîne Youtube [**ReacttotheK**](https://www.youtube.com/channel/UCPnsmwVKhDJoO7jLKfX0Wxw), ou des élèves d'une université de musique réagissent et décortiquent des titres de K-Pop. Allez donc voir, c'est intéressant, par contre il faut bien comprendre l'anglais et c'est mieux d'avoir des notions de théorie musicale, ils deviennent vite *nerdy* ^^. Donc, *Shoot Me*, sorti en 2018, enjaillez-vous.
 
-[![YOUTUBE MV - Day6 - Shoot Me](https://img.youtube.com/vi/g2X2LdJAIpU/0.jpg)](https://www.youtube.com/watch?v=g2X2LdJAIpU)
+{% youtube g2X2LdJAIpU %}

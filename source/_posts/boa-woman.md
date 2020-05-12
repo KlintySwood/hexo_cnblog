@@ -18,4 +18,4 @@ Elle a du succès non seulement grâce à sa voix, très reconnaissable, mais au
 
 Son dernier album est sorti tout récemment et le titre principal est *Woman*, un très bon titre, j'aime beaucoup tout les travaux récents de **BoA** de toute façon. Elle commence même la chorégraphie la tête en bas, *like a boss*.
 
-[![YOUTUBE MV - BoA - Woman](https://img.youtube.com/vi/RlMg8FbcP7g/0.jpg)](https://www.youtube.com/watch?v=RlMg8FbcP7g)
+{% youtube RlMg8FbcP7g %}

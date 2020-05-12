@@ -38,7 +38,7 @@ Le groupe de danse est, lui, composé de *Choa*, *Jimin*, *Mina*, *Yuna*, *Seol 
 
 J'ai également envie de vous parler de *Jimin*, rappeuse attitrée du groupe, qui participe en 2015 à l'émission de compétition de rap **Unpretty Rapstar**, qui est un spin-off et une version féminine de **Show Me The Money**. Malgré son statut de petite idol qui vient faire sa promo et sa voix nasillarde elle se fera notamment remarquer lors de son diss battle contre la rappeuse **Cheetah** et ensuite avec son titre [*Puss*](https://www.youtube.com/watch?v=IGo5X48VPdM).
 
-[![Unpretty Rapstar - Cheetah VS Jimin](https://img.youtube.com/vi/wmJcL9yeIGQ/0.jpg)](https://www.youtube.com/watch?v=wmJcL9yeIGQ)
+{% youtube wmJcL9yeIGQ %}
 
 Une autre membre notable d'**AOA** est *Seol Hyun*, qui est la reine des CF (Commercial Films, les pubs quoi). Elle a du faire la promotion d'à peu près tout ce que l'image d'une idol puisse permettre de vendre. Il faut dire que la jeune femme est magnifique et correspond parfaitement aux critères de beauté coréens, et ce sans avoir eu (beaucoup ?) besoin de chirurgie esthétique. Espérons que son management lui ai laissé avoir une part décente de l'argent de tous ces contrats.
 

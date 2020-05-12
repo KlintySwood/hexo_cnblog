@@ -23,4 +23,4 @@ Anyeong Internet ! Cette semaine parlons d'un groupe qui, j'espère, reviendra s
 
 Nous arrivons au clip de *Black Dress*, tout était réuni pour faire de **CLC** les remplaçantes de **4Minute**, une chanson super catchy, une atmosphère *girl power* bien badass, ce titre fait partie pour moi de ce qui se fait de mieux dans la K-Pop.
 
-[![YOUTUBE MV - CLC - Black Dress](https://img.youtube.com/vi/hF6Wds75rjg/0.jpg)](https://www.youtube.com/watch?v=hF6Wds75rjg)
+{% youtube hF6Wds75rjg %}

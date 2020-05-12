@@ -29,6 +29,6 @@ Le public était très chaud, ça criait plus fort que le son de la sono, et bea
 
 Pour les fancams, il y en a pleins sur le net, j'ai préféré profiter du concert que de galérer à prendre plein de photos et de vidéos. Exemple :
 
-[![Fancam - Dreamcatcher in Paris - Wake Up](https://img.youtube.com/vi/vGlqe9iCJ8I/0.jpg)](https://www.youtube.com/watch?v=vGlqe9iCJ8I)
+{% youtube vGlqe9iCJ8I %}
 
 Si il y a un seul bémol à avoir ce serait que les backing tracks ça fait le taf, mais un groupe en live pour jouer les morceaux ça défoncerait carrément tout.

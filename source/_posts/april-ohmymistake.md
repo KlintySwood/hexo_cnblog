@@ -24,4 +24,4 @@ Le groupe est actuellement composé de *Chae Kyung*, *Chae Won*, *Na Eun*, *Ye N
 
 Je voulais surtout vous parler du titre *Oh My Mistake* d'**April** car je voulais réparer une erreur (lol, vous l'avez ?), cette chanson est certainement un des meilleurs titres K-Pop de 2018, et je ne l'ai même pas mis dans le top que je vous ai proposé au début de l'année. Honte sur moi...
 
-[![YOUTUBE MV - April - Oh My Mistake!](https://img.youtube.com/vi/D2MhwXZ8IgM/0.jpg)](https://www.youtube.com/watch?v=D2MhwXZ8IgM)
+{% youtube D2MhwXZ8IgM %}

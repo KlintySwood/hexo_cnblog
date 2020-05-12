@@ -23,4 +23,4 @@ Ils ont même eu l'indécence de réussir une incursion sur le marché américai
 
 Toujours est-il que je vous propose un des titres de 2017 de **BTS**, *Not today* qui a un clip très très cool je trouve. Et si ça vous plait allez donc voir *Blood, Sweat and Tears* et *Dope*, qui sont très bons eux aussi.
 
-[![YOUTUBE MV - BTS - Not Today](https://img.youtube.com/vi/9DwzBICPhdM/0.jpg)](https://www.youtube.com/watch?v=9DwzBICPhdM)
+{% youtube 9DwzBICPhdM %}

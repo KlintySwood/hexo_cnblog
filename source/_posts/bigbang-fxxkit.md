@@ -21,4 +21,4 @@ Ils sont cinq (*G-Dragon*, *Taeyang*, *Seungri*, *Daesung* et *TOP*), ils sont j
 
 EDIT de 2019 : Eh bien, il s'en est passé des choses pour **Big Bang** depuis ce post... Pour résumer, disons que plus de la moitié des membres sont désormais liés au crime organisé et/ou à des crimes sexuels... Donc on est pas près de les revoir dans l'industrie du divertissement. Dommage, j'aimais bien leur musique.
 
-[![YOUTUBE MV - Big Bang - FXXK IT](https://img.youtube.com/vi/iIPH8LFYFRk/0.jpg)](https://www.youtube.com/watch?v=iIPH8LFYFRk)
+{% youtube iIPH8LFYFRk %}

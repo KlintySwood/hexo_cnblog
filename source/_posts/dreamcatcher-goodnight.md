@@ -21,4 +21,4 @@ Anyeong Internet ! Deuxième post et c'est déjà un post à la bourre, n'import
 
 **Dreamcatcher** est donc un groupe de 7 filles (*JiU*, *Yoo Hyeon*, *Si Yeon*, *Da Mi*, *Sua*, *Han Dong* et *Ga Hyeon*) interprétant des morceaux aux instrumentations très rock, pas aussi métal que le fameux trio japonais, mais ça reste très pêchu, ce qui n'est pas pour me déplaire. En plus des instrus aux guitares saturées, leur concept est lié aux cauchemars et j'espère voir des clips encore plus dark que ce qu'elles ont pu nous présenter. Voici donc le morceau de cette semaine, *Good Night*.
 
-[![YOUTUBE MV - Dreamcatcher - Good Night](https://img.youtube.com/vi/Lxfl8LRab_I/0.jpg)](https://www.youtube.com/watch?v=Lxfl8LRab_I)
+{% youtube Lxfl8LRab_I %}

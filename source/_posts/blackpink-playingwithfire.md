@@ -20,4 +20,4 @@ Non,  la K-Pop c'est là pour répandre la joie, donc non, je ne parlerai pas  d
 
 Restons positifs, regardons vers le futur, **Blackpink** revient ! *Jennie*, *Jisoo*, *Lisa* et *Rosé* font donc leur comeback, mais il n'est pas encore sorti, je vous propose donc d'écouter le titre du groupe que je préfère : *Playing With Fire*. Ça tue.
 
-[![YOUTUBE MV - Blackpink - Playing With Fire](https://img.youtube.com/vi/9pdj4iJD08s/0.jpg)](https://www.youtube.com/watch?v=9pdj4iJD08s)
+{% youtube 9pdj4iJD08s %}

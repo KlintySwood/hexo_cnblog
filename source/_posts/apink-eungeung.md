@@ -24,4 +24,4 @@ Allez ! 2019 est bien entamée, il est temps de vous proposer un nouvel article.
 
 Et nous arrivons au titre de cette semaine, le dernier en date d'**A-Pink**, sorti au tout début de cette année 2019, *%%*. Ou *Eung Eung*, le signe de pourcentage si on le regarde de côté correspond à un caractère coréen : 응응. Le groupe continue dans la même veine que *I'm so sick*, et c'est vraiment bien. Et les visuals sont au top. ❤
 
-[![YOUTUBE MV - APink - %%](https://img.youtube.com/vi/499YUeNoYVE/0.jpg)](https://www.youtube.com/watch?v=499YUeNoYVE)
+{% youtube 499YUeNoYVE %}

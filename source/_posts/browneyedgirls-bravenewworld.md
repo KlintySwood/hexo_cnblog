@@ -22,4 +22,4 @@ Mais intéresssons nous à leur dernier album sorti et à son titre principal, *
 
 Et si vous êtes curieux, allez jeter une oreille aux autres chansons de l'album, *Wave* est excellente, et une autre s'appelle *Warm Hole*, et oui, c'est bien ce à quoi vous pensez.
 
-[![YOUTUBE MV - Brown Eyed Girls - Brave New World](https://img.youtube.com/vi/8fMnBrts2cg/0.jpg)](https://www.youtube.com/watch?v=8fMnBrts2cg)
+{% youtube 8fMnBrts2cg %}
