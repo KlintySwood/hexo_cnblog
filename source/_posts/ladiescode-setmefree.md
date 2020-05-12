@@ -22,9 +22,9 @@ Aujourd'hui j'ai envie de faire un article sur le groupe **Ladie's Code** pour u
 
 J'ai suivi assidument le show original pendant un moment, et je dois dire que je suis assez curieux de pouvoir comparer le skill vocal des français par rapport aux coréens, car il faut être honnête, dans ce qui passe à la radio et qui est populaire en ce moment chez nous on est pas ultra fournis en chanteurs de qualité.
 
-Du coup ça m'a rappelé une performance particulière d'une des membres de **Ladie's Code**, *Sojung*. Je vous mets la vidéo, qui est une compilation de performances d'idols féminines dans l'émission, ci-dessous et on se retrouve juste après.
+Du coup ça m'a rappelé une performance particulière d'une des membres de **Ladie's Code**, *Sojung*. Je vous mets la vidéo, qui est une compilation de performances d'idols féminines dans l'émission, ci-dessous et on se retrouve juste après, il faut aller à 52min30.
 
-{% youtube MPGlAnHllFQ?t=3211 %}
+{% youtube MPGlAnHllFQ %}
 
 Juste pour info, elle a perdu, ce qui vous donne peut-être une idée globale du niveau général dans l'émission coréenne. N'hésitez pas à écouter les autres participantes, il y en a plein de vraiment excellentes, notamment *Solji* au tout début.
 
