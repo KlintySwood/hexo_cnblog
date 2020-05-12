@@ -20,4 +20,4 @@ Pour cette semaine retournons dans le passé, il y a 11 ans débutait le groupe 
 
 En 2015 donc, le groupe revient sous la forme d'un girls band plus qu'un girls group. On a *Ye Eun* au clavier, *Yubin* à la batterie, *Hye Lim* à la guitare et *Sunmi* à la basse. L'album se nomme **REBOOT** et a un sérieux goût de vintage, le groupe pioche ses influences dans les 80s et les 90s. Le titre *I feel you* est diablement sexy et je vous propose de le découvrir.
 
-[![YOUTUBE MV - Wonder Girls - I Feel You](https://img.youtube.com/vi/V9QXQz6uE0M/0.jpg)](https://www.youtube.com/watch?v=V9QXQz6uE0M)
+{% youtube V9QXQz6uE0M %}

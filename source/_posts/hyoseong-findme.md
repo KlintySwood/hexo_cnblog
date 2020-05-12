@@ -17,4 +17,4 @@ Reste *Hana*, qui, d'après TS Entertainment, prépare un album solo. LOL, on y 
 
 Mais revenons un instant sur *Hyo Seong*, qui a eu la chance tout de même de sortir deux mini-albums, et le titre que je veux vous présenter vient du deuxième, *Colored*, sorti en 2016. *Find Me* est donc le dernier single de *Hyo Seong*, et bon, j'avoue... La musique n'est peut-être pas la qualité première de ce clip, mais depuis que j'ai lu ces articles sur la séparation des membres de **Secret** j'ai cette chanson qui me trotte dans la tête.
 
-[![YOUTUBE MV - Hyo Seong - Find Me](https://img.youtube.com/vi/NvHD5B99rhQ/0.jpg)](https://www.youtube.com/watch?v=NvHD5B99rhQ)
+{% youtube NvHD5B99rhQ %}

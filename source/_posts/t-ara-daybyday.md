@@ -31,4 +31,4 @@ Toujours est-il que **T-ARA** a persévéré, à 7 jusqu'au départ précipité 
 
 Mais revenons à leur chanson parue juste avant l'apocalypse, *Day by Day*, qui a même bénéficié d'un long clip/drama *badass* de 15 minutes ! (Et c'est pas le seul clip de **T-ARA** comme ça, il y avait du pognon à l'époque pour le groupe, majeur je vous dis).
 
-[![YOUTUBE MV - T-ara - Day By Day](https://img.youtube.com/vi/brnCe8lL7l4/0.jpg)](https://www.youtube.com/watch?v=brnCe8lL7l4)
+{% youtube brnCe8lL7l4 %}

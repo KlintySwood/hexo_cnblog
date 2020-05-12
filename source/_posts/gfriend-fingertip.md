@@ -26,4 +26,4 @@ Pour finir, dans ce groupe il y a *SinB*, sans doute une des idols les plus bada
 
 En conclusion, cette semaine je vous propose *Fingertip*, titre sorti en 2017, le concept y est un peu plus mature que précédemment, et la musique tout en gardant l'identité **GFriend** est bien plus funky. Pour moi c'est leur meilleur titre, mais ça n'a pas autant plus que les premières chansons et elles sont malheureusement revenues à des sons plus guimauve et un peu mous.
 
-[![YOUTUBE MV - GFriend - Fingertip](https://img.youtube.com/vi/i1n_1jrUEjU/0.jpg)](https://www.youtube.com/watch?v=i1n_1jrUEjU)
+{% youtube i1n_1jrUEjU %}

@@ -18,4 +18,4 @@ Pendant  qu'elle était à la **JYP** elle a stoppé temporairement ses activit�
 
 Dans  son dernier titre, *Noir*, en français dans le texte, elle dresse un  portrait acide, mais juste sur les réseaux sociaux et sur la quête de  reconnaissance dans laquelle certains peuvent plonger. Elle continue  d'étoffer son univers avec un son toujours électro, un peu rétro, avec  une touche de lascivité. J'ai adoré ses trois précédents titres solo, et  celui-là se rajoute à la liste.
 
-[![YOUTUBE MV - Sunmi - Noir](https://img.youtube.com/vi/CNeNwplE_aw/0.jpg)](https://www.youtube.com/watch?v=CNeNwplE_aw)
+{% youtube CNeNwplE_aw %}

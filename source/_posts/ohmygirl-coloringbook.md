@@ -25,4 +25,4 @@ Je le disais en début de post, malgré une popularité modeste en Corée, leur 
 
 Toujours est-il que vous pouvez vous faire une idée du style et de l'originalité dont fait preuve **Oh My Girl** avec le titre de cette semaine : *Coloring Book*.
 
-[![YOUTUBE MV - Oh My Girl - Coloring Book](https://img.youtube.com/vi/7cjZFjWBZI0/0.jpg)](https://www.youtube.com/watch?v=7cjZFjWBZI0)
+{% youtube 7cjZFjWBZI0 %}

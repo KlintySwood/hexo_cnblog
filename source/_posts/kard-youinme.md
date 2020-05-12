@@ -20,4 +20,4 @@ Mais revenons à **KARD**, un groupe qui a débuté tout récemment dont les mem
 
 Espérons que leur prochain comeback leur fasse gravir les charts, car j'apprécie particulièrement ce groupe. Voici donc un de leur titre, *You in me*.
 
-[![YOUTUBE MV - KARD - You In Me](https://img.youtube.com/vi/tz23WFb8HM0/0.jpg)](https://www.youtube.com/watch?v=tz23WFb8HM0)
+{% youtube tz23WFb8HM0 %}

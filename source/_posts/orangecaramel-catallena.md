@@ -19,4 +19,4 @@ thumbnail: /images/orange-caramel-catallena.jpg
 
 Et le clip de cette semaine est *Catallena*, un titre espagnol, un bout de refrain piqué à une chanson traditionnelle punjabi et les trois demoiselles déguisées en sushi. Normal.
 
-[![YOUTUBE MV - Orange Caramel - Catallena](https://img.youtube.com/vi/Med2XipHJJM/0.jpg)](https://www.youtube.com/watch?v=Med2XipHJJM)
+{% youtube Med2XipHJJM %}

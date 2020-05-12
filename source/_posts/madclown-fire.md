@@ -19,4 +19,4 @@ Mais pour gagner de la popularité il y a aussi la technique du bon vieux *featu
 
 Et dans la K-Pop il y en a des duos entre rappeurs et chanteuses, souvent idols. Les premiers prospectent un public pas encore conquis par leurs textes, les secondes étant souvent en quête d'un peu de reconnaissance en tant que "véritables" chanteuses. On notera en exemple le duo **San E**/ **Raina** : [*A midsummer night sweetness*](https://www.youtube.com/watch?v=nkfMN-jaycA), ou **Mad Clown** / **Soyou** : [*Stupid In Love*](https://www.youtube.com/watch?v=hLtEIEqGahg). Mais c'est un autre titre de **Mad Clown** que je voulais vous présenter, *Fire* en duo avec la très talentueuse chanteuse **Jinsil**. Très talentueuse mais sans assez de points dans sa stat d'apparence d'après la prod, puisque dans le clip c'est **Hani** du groupe **EXID** que l'on voit, la jeune femme venant de gagner à l'époque énormément de popularité, souvenez-vous, c'était juste après [*Up and Down*](/exid-up-and-down/).
 
-[![YOUTUBE MV - Mad Clown ft Jinsil - Fire](https://img.youtube.com/vi/XzNqcc__uRs/0.jpg)](https://www.youtube.com/watch?v=XzNqcc__uRs)
+{% youtube XzNqcc__uRs %}

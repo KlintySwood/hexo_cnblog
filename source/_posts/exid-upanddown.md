@@ -26,4 +26,4 @@ Dans le monde de la K-Pop, comme dans beaucoup de domaines, on peut classer les 
 
  Fait exceptionnel, le groupe revient dans les shows TV musicaux tels que l'Inkigayo ou le Music Bank, et remporte même des 1ères places. Fortes de cette nouvelle visibilité, les 5 jeunes femmes transforment l'essai en sortant des titres qui se placent très bien dans les classements et en participant à des émissions télés de variété qui renforcent leur popularité, une des plus notables étant [King of Masked Singer](https://www.youtube.com/watch?v=NX25qQhGSEc "Solji - Maria"), qui a révélé la voix exceptionnelle de Solji au grand public.
 
-[![YOUTUBE MV - EXID - Up And Down](https://img.youtube.com/vi/hfXZ6ydgZyo/0.jpg)](https://www.youtube.com/watch?v=hfXZ6ydgZyo)
+{% youtube hfXZ6ydgZyo %}

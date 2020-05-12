@@ -23,4 +23,4 @@ Et puis *Amber*, *Luna*, *Krystal* et *Victoria* ne sont pas en reste lorsqu'il 
 
 Mais stoppons là le cours d'histoire de la pop coréenne, et enchainons sur le morceau de cette semaine. *Red Light* de **f(x)**, dernière promotion que Sulli la traîtresse fera avec le groupe, morceau edgy as fuck mais qui montre que quand SM laisse un peu de marge aux producteurs qu'elle débauche à l'étranger et bah ça déboîte.
 
-[![YOUTUBE MV - f(x) - Red Light](https://img.youtube.com/vi/iv-8-EgPEY0/0.jpg)](https://www.youtube.com/watch?v=iv-8-EgPEY0)
+{% youtube iv-8-EgPEY0 %}

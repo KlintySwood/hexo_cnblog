@@ -21,10 +21,10 @@ Mais revenons au groupe, Fiestar, qui a débuté en 2012 avec 6 membres, Jei, Li
 
 D'habitude je mets plutôt l'accent sur un seul titre, mais cette fois je vais en mettre plusieurs, notamment One More, qui a fait un petit scandale à l'époque, le groupe a même du modifier les paroles car les grosses chaînes de télé coréennes ont trouvé que les sous-entendu olé-olé ne convenaient absolument pas à une diffusion grand public.  
 
-[![YOUTUBE MV - Fiestar - One More](https://img.youtube.com/vi/n9sEjiBew18/0.jpg)](https://www.youtube.com/watch?v=n9sEjiBew18)
+{% youtube n9sEjiBew18 %}
 
-[![YOUTUBE MV - Fiestar - Vista](https://img.youtube.com/vi/2FBfIH1Fimw/0.jpg)](https://www.youtube.com/watch?v=2FBfIH1Fimw)
+{% youtube 2FBfIH1Fimw %}
 
-[![YOUTUBE MV - Fiestar - Mirror](https://img.youtube.com/vi/xKMT44GBaUI/0.jpg)](https://www.youtube.com/watch?v=xKMT44GBaUI)
+{% youtube xKMT44GBaUI %}
 
-[![YOUTUBE MV - Fiestar - You're Pitiful](https://img.youtube.com/vi/ShGVCembq70/0.jpg)](https://www.youtube.com/watch?v=ShGVCembq70)
+{% youtube ShGVCembq70 %}

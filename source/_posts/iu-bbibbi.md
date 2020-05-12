@@ -20,6 +20,6 @@ Plus ça va et plus j'aime ce que produit **IU**, son album *Chat-Shire* était 
 
 Je vous mets ci-dessous une traduction en anglais qui est pas trop mal des paroles de *BBIBBI*.
 
-[Color Coded Lyrics - IU : BBIBBI](https://www.youtube.com/watch?v=efDAYB3jKXc)
+{% youtube efDAYB3jKXc %}
 
-[![YOUTUBE MV - IU - BBIBBI](https://img.youtube.com/vi/nM0xDI5R50E/0.jpg)](https://www.youtube.com/watch?v=nM0xDI5R50E)
+{% youtube nM0xDI5R50E %}

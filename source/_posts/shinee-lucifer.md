@@ -21,4 +21,4 @@ Ce fût le cas récemment d'un des membres du groupe **Shinee**, *Jong Hyun*, qu
 
 Cette semaine je vous propose donc d'écouter **Lucifer**, sorti en 2010, et qui fait partie des quelques titres chantés par un groupe de garçons que j'apprécie.
 
-[![YOUTUBE MV - Shinee - Lucifer](https://img.youtube.com/vi/Dww9UjJ4Dt8/0.jpg)](https://www.youtube.com/watch?v=Dww9UjJ4Dt8)
+{% youtube Dww9UjJ4Dt8 %}

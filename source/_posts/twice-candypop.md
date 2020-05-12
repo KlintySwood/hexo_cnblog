@@ -25,4 +25,4 @@ Konichiwa Internet ! Cette semaine je vais parler d'un groupe qui en plus de car
 
 Même si ce n'est pas le titre de **Twice** que je préfère, voici de quoi faire monter votre taux de glycémie en flèche avec *Candy Pop*.
 
-[![YOUTUBE MV - Twice - Candy Pop](https://img.youtube.com/vi/wQ_POfToaVY/0.jpg)](https://www.youtube.com/watch?v=wQ_POfToaVY)
+{% youtube wQ_POfToaVY %}

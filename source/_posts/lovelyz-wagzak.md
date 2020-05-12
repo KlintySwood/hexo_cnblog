@@ -26,10 +26,10 @@ Le groupe ne décolle jamais vraiment, elle n'ont gagné que trois premières pl
 
 Jusqu'à il y a peu je n'ai pas prêté grande attention à **Lovelyz**, mais elles piquent de plus en plus mon intérêt, depuis que j'ai vu *Su Jeong* ❤ dans un web drama en fait. Et j'ai aussi vu récemment cette vidéo de *Ji Soo* :
 
-[![Lovelyz Jisoo Performance](https://img.youtube.com/vi/Y4kPZORF3AQ/0.jpg)](https://www.youtube.com/watch?v=Y4kPZORF3AQ)
+{% youtube Y4kPZORF3AQ %}
 
 Sérieux, si les idols pouvaient plus sortir du cadre strict dans lequel ils et elles sont, et montrer un peu plus souvent ce genre de performances ce seraient cool. On remarque assez facilement les bons danseurs et les bons chanteurs, mais les bons musiciens c'est beaucoup plus rare.
 
 Après tout ce blabla il est peut-être temps de vous mettre la vidéo du titre de **Lovelyz** que je veux vous présenter, *Wag Zak*, celui que je préfère je crois, peut-être pour son côté très enjoué.
 
-[![YOUTUBE MV - Lovelyz - Wag Zak](https://img.youtube.com/vi/uer7k-jkk78/0.jpg)](https://www.youtube.com/watch?v=uer7k-jkk78)
+{% youtube uer7k-jkk78 %}

@@ -24,4 +24,4 @@ Anyeong Internet ! Histoire d'utiliser un peu cet espace je lance ce que je vais
 
 Pour aujourd'hui je vais tout simplement vous présenter le premier titre de K-Pop que j'ai entendu (et oui c'était bien avant *Gangnam Style*), où j'ai découvert *Yuri*, *Tae Yeon*, *Sunny*, *Jessica*, *Tiffany*, *Soo Young*, *Hyo Yeon*, *Yoona* et *Seo Hyun*, et où ma déchéance a commencé diront certains. *Gee* de **Girl's Generation** ( alias **SNSD**, acronyme de *So Nyu Shi Dae* ), le *nation girl group* de la seconde génération d'idols.
 
-[![YOUTUBE MV - SNSD - Gee](https://img.youtube.com/vi/U7mPqycQ0tQ/0.jpg)](https://www.youtube.com/watch?v=U7mPqycQ0tQ)
+{% youtube U7mPqycQ0tQ %}

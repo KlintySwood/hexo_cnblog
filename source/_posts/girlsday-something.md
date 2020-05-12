@@ -22,6 +22,6 @@ Aujourd'hui le groupe n'est plus actif, mais on peut retrouver *Hyeri* et *Min A
 
 **Girl's Day** est un groupe mémorable pour d'autres raisons que leurs chansons, ça doit d'ailleurs être un des premiers groupes qui a cassé l'image proprette des idols féminines à la télévision. *Yura* et *Hyeri* ont souvent étonné par leur côté extraverti et leurs rires, ma foi assez singuliers.
 
-[![Girl's Day Hyeri and Yura laugh](https://img.youtube.com/vi/4H15DrL19ao/0.jpg)](https://www.youtube.com/watch?v=4H15DrL19ao)
+{% youtube 4H15DrL19ao %}
 
-[![YOUTUBE MV - Girl's Day - Something](https://img.youtube.com/vi/zVO5xTAbxm8/0.jpg)](https://www.youtube.com/watch?v=zVO5xTAbxm8)
+{% youtube zVO5xTAbxm8 %}

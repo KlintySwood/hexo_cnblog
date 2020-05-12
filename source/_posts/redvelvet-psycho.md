@@ -24,4 +24,4 @@ Commençons la nouvelle année avec un titre sorti pendant les fêtes, et pendan
 
 Les autres membres du groupe qui vont devoir assumer les promotions à quatre du coup sont : Joy, Yeri, Seulgi et Irene, et si pendant l'année elles ont sorti des titres, disons... clivants, [Umpah Umpah](https://www.youtube.com/watch?v=vHS9E6JFja8) et surtout l'expérimental [Zimzalabim](https://www.youtube.com/watch?v=YBnGBb1wg98), elles finissent 2019 en beauté avec Psycho.
 
-[![YOUTUBE MV - Red Velvet - Psycho](https://img.youtube.com/vi/uR8Mrt1IpXg/0.jpg)](https://www.youtube.com/watch?v=uR8Mrt1IpXg)
+{% youtube uR8Mrt1IpXg %}

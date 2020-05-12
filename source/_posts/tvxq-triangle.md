@@ -18,4 +18,4 @@ Je suis pas super familier de l'historique des groupes de la première générat
 
 Je vous laisse regarder et écouter la vidéo, et à la semaine prochaine (peut-être).
 
-[![YOUTUBE MV - TVXQ - Tri-Angle](https://img.youtube.com/vi/GM8wZRaHXTg/0.jpg)](https://www.youtube.com/watch?v=GM8wZRaHXTg)
+{% youtube GM8wZRaHXTg %}

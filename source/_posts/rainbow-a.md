@@ -29,4 +29,4 @@ Je me dois de préciser que **Rainbow** a également eu un sous-groupe, **Rainbo
 
 Pour finir, la chanson de **Rainbow** que je voulais vous présenter c'est *A*, leur plus gros succès, mais qui ne les a malheureusement pas fait grimper dans la liste *top-tier* des *girls groups*. De ce titre on retiendra surtout ce mouvement dans la chorégraphie, quand vous le verrez au début de cette fancam de [*Hyun Young*](https://youtu.be/7VC3qC6vMrU) vous saurez de quoi je parle 😉. De plus pour une fois je vous mets pas le [clip officiel](https://www.youtube.com/watch?v=QnAhnxmSNFw), car je sais pas ce qui est passé par la tête de la maquilleuse, mais les filles sont vraiment pas à leur avantage je trouve. Du coup en vidéo principale je vous propose une performance réalisée pour l'émission *Simply K-Pop* en 2014.
 
-[![YOUTUBE MV - Rainbow - A](https://img.youtube.com/vi/QnAhnxmSNFw/0.jpg)](https://www.youtube.com/watch?v=QnAhnxmSNFw)
+{% youtube QnAhnxmSNFw %}
