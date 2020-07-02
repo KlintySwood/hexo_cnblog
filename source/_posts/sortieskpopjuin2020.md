@@ -3,6 +3,7 @@ title: Sorties Kpop du mois de juin 2020
 date: 2020-06-30 19:14:01
 tags:
 categories:
+    - KPop
 thumbnail:
 ---
 
