@@ -35,7 +35,7 @@ En parlant de groupe qui reste dans ce qu'il sait faire, l'autre groupe numéro 
 
 {% youtube ioNng23DkIM %}
 
-Un autre groupe top-tier a fait son retour, enfin, seulement deux membres sur les cinq. Irene et Seulgi de Red Velvet forment un *sub-unit* et nous proposent le titre *Monster*. Et elles envoient du lourd, la chanson est top, le clip est ultra classe et la choré défonce.
+Un autre groupe top-tier a fait son retour, enfin, seulement deux membres sur les cinq. Irene et Seulgi de **Red Velvet** forment un *sub-unit* et nous proposent le titre *Monster*. Et elles envoient du lourd, la chanson est top, le clip est ultra classe et la choré défonce.
 
 {% youtube Ujb-gvqsoi0 %}
 
