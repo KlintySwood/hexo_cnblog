@@ -31,7 +31,7 @@ Continuons avec un groupe de *nugus*, c'est à dire pas très populaire, **3YE**
 
 {% youtube mH0_XpSHkZo %}
 
-En parlant de groupe qui reste dans ce qu'il sait faire, l'autre groupe numéro un, **Blackpink** sort *How You Like That*. J'espère que c'est juste un titre pour amorcer leur vague de promotion pour la deuxième moitié de 2020, car si c'est effectivement très efficace, c'est plus ou moins la même chose que les deux derniers titres du groupe. On retrouve les moments un peu *cringe* comme le rap yolo/swag de Lisa ou l'outro un peu over the top, mais il y a d'autres moments qui rattrapent tout, comme l'intro de Rosé, ou les pré-refrains de Rosé et Jisoo.
+En parlant de groupe qui reste dans ce qu'il sait faire, l'autre groupe numéro un, **Blackpink** sort *How You Like That* J'espère que c'est juste un titre pour amorcer leur vague de promotion pour la deuxième moitié de 2020, car si c'est effectivement très efficace, c'est plus ou moins la même chose que les deux derniers titres du groupe. On retrouve les moments pas terribles comme le rap yolo/swag de Lisa ou l'outro un peu over the top, mais il y a d'autres moments qui rattrapent tout, comme l'intro de Rosé, ou les pré-refrains de Rosé et Jisoo.
 
 {% youtube ioNng23DkIM %}
 
